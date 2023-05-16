@@ -7,7 +7,7 @@
 /website/build
 
 # production
-/dist
+#/dist
 
 # jest
 /coverage
@@ -22,3 +22,4 @@ examples/src/index.js
 **/*.d.ts
 
 package-lock.json
+.yarn/
