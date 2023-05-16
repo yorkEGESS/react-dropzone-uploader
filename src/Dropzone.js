@@ -424,4 +424,4 @@ Dropzone.propTypes = {
     LayoutComponent: PropTypes.func,
 };
 export default Dropzone;
-export { LayoutDefault as Layout, InputDefault as Input, PreviewDefault as Preview, SubmitButtonDefault as SubmitButton, formatBytes, formatDuration, accepts, defaultClassNames, defaultGetFilesFromEvent as getFilesFromEvent, };
+export { LayoutDefault as Layout, InputDefault as Input, PreviewDefault as Preview, SubmitButtonDefault as SubmitButton, formatBytes, formatDuration, accepts, defaultClassNames, defaultGetFilesFromEvent as getFilesFromEvent, Dropzone, };

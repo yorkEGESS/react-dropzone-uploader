@@ -817,4 +817,5 @@ export {
   accepts,
   defaultClassNames,
   defaultGetFilesFromEvent as getFilesFromEvent,
+  Dropzone,
 }
